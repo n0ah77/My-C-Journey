@@ -1,5 +1,7 @@
 # My-C-Journey
-Documenting my journey learning C
+Documenting my journey learning C.
+
+
 Whenever I want to learn something complex, I use the ChatGPT DeepSearch feature to create a science based roadmap based on 20+ sources.
 
 
