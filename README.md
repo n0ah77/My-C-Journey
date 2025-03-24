@@ -1,8 +1,9 @@
 # My-C-Journey
-Documenting my journey learning C.
+### Documenting my journey learning C for red team tool development.
 
 
-Whenever I want to learn something complex, I use the ChatGPT DeepSearch feature to create a science based roadmap based on 20+ sources.
+What I did to get this roadmap below -
+I took my study methodolgy, my current knowledge of cybersecurity and programming and input it into ChatGPT's Deepsearch feature. The Deepsearch used 20+ sources to create a tailored science-based roadmap from where I am to where I want to be.
 
 
 # Roadmap: Mastering Windows Red Team Tool & Malware Development
